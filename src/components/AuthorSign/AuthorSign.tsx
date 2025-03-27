@@ -9,7 +9,7 @@ export const AuthorSign: FC<AuthorSignProps> = (props) => {
       Made with 💙💛 by
       &nbsp;
       <a href="https://www.andrii256.info/" target="_blank" className="AuthorSign__link">
-        Andrii256
+        Andrii Hrushetskyi
       </a>
     </p>
   );
